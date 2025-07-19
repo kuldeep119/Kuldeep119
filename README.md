@@ -1,12 +1,12 @@
-## Hi there 👋, I'm Kuldeep Singh
+                                                        Hi there 👋, I'm Kuldeep Singh
 
-iOS Learner 📱 | SwiftUI 💻 | Vlogger With 240 Subs
+                                              iOS Learner 📱 | SwiftUI 💻 | Vlogger With 240 Subs
 
-[Profile views](https://komarev.com/ghpvc/?username=kuldeep119E&color=blue)
+[Profile views](https://komarev.com/ghpvc/?username=kuldeep-singh119E&color=blue)
 
 - 🔭 I’m currently Pursuing B.Tech in Computer Science
-- 🌱 I’m currently learning IOS,Swift Programminga and SwiftUI
-- 📫 How to reach me: rajputkuldeep1205@gmai.co
+- 🌱 I’m currently learning IOS, Swift Programming and SwiftUI
+- 📫 How to reach me: rajputkuldeep1205@gmail.com
 
 
 ## Connect with me:
