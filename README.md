@@ -2,16 +2,11 @@
 
 iOS Learner 📱 | SwiftUI 💻 | Vlogger With 240 Subs
 
-<!--
-**kuldeep119/Kuldeep119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+[Profile views](https://komarev.com/ghpvc/?username=kuldeep119E&color=blue)
 
 - 🔭 I’m currently Pursuing B.Tech in Computer Science
 - 🌱 I’m currently learning IOS,Swift Programminga and SwiftUI
-- 📫 How to reach me: rajputkuldeep1205@gmai.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: rajputkuldeep1205@gmai.co
 
 
 ## Connect with me:
